@@ -12,5 +12,5 @@ cd ..<br>
 apt update;<br>
 apt upgrade;<br>
 apt install docker-compose;<br>
-docker-compose up -d.<br>
+docker-compose up -d.<br><br>
 <img src="/Print.png">
